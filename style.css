@@ -36,7 +36,7 @@ body{
 
 .hero{
     grid-area: hero;
-    background-image: url(img/1\ \(1\).jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2015/10/29/01/24/shoes-1011596_960_720.jpg);
     height: 100px;
     background-size: cover;
     background-position: center;
