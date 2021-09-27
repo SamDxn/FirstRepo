@@ -2,3 +2,4 @@ Name : Loggis syamjaya
 Status : Student 
 Grade : 11 Grade Senior 
 Skills : Frontend & Backend web development
+Project : Web development
